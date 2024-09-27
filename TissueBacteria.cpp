@@ -218,7 +218,7 @@ void TissueBacteria::Initialization2 ()
 //-----------------------------------------------------------------------------------------------------
 void TissueBacteria::CircularInitialization ()
 {
-    double raduis = 0.45 * sqrt(domainx * domainx  )/2.0 ;
+    double raduis = 0.55 * sqrt(domainx * domainx  )/2.0 ;
     double deltaTetta = 2.0 * 3.1416 / nbacteria ;
     double cntrX = domainx/2.0 ;
     double cntrY = domainy/2.0 ;

@@ -210,8 +210,7 @@ void TissueGrid::Create_Experimental_Gradient()
     //std::ifstream file("/Users/austinhansen/Documents/Research/Bacterial Migration/Pseudomonas_Motility_SCE_Model/external_concentrations_t=36032.00_newtrans2_Penic_Tips.txt");
     //std::ifstream file("/Users/austinhansen/Documents/Research/Bacterial Migration/Pseudomonas_Motility_SCE_Model/external_concentrations_t=36032.00_newtrans2_Penic_Tips_4000Grid2.txt");
     //std::ifstream file("/rhome/ahans016/bigdata/Bacterial_Migration/Pseudomonas_Motility_SCE_Model/external_concentrations_t=36032.00_newtrans2_Penic_Everywhere.txt");
-    //std::ifstream file("/rhome/ahans016/bigdata/Bacterial_Migration/Pseudomonas_Motility_SCE_Model/external_concentrations_t=36032.00_newtrans2_Penic_Everywhere_4000Grid2.txt");
-    std::ifstream file("/rhome/ahans016/bigdata/Bacterial_Migration/Pseudomonas_Motility_SCE_Model/external_concentrations_t=36032.00_newtrans2_Penic_Everywhere_4000Grid_1Micron.txt");
+    std::ifstream file("/rhome/ahans016/bigdata/Bacterial_Migration/Pseudomonas_Motility_SCE_Model/external_concentrations_t=36032.00_newtrans2_Penic_Everywhere_4000Grid2.txt");
     //std::ifstream file("/rhome/ahans016/bigdata/Bacterial_Migration/Pseudomonas_Motility_SCE_Model/external_concentrations_t=36032.00_newtrans2_Penic_Tips.txt");
     //std::ifstream file("/rhome/ahans016/bigdata/Bacterial_Migration/Pseudomonas_Motility_SCE_Model/external_concentrations_t=36032.00_newtrans2_Penic_Tips_4000Grid2.txt");
     //std::ifstream file("/rhome/ahans016/bigdata/Bacterial_Migration/Fungi_In_Liquid_Simulations/external_concentrations_t=160000.00_newtrans2.txt");
